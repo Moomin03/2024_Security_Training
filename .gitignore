@@ -1,1 +1,5 @@
-*.DS_STORE/
+# macOS 시스템 파일
+.DS_Store
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints
