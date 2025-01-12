@@ -1,6 +1,6 @@
 ## ThreatLens
 
-![이미지 설명](이미지_경로.png#center)
+![이미지 설명](https://github.com/Moomin03/Development_of_an_Anomaly_Detection-System/blob/master/LOGO.jpg#center)
 
 
 ## ThreatLens Web Page v1.0
