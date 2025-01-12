@@ -11,7 +11,9 @@
 
 ### 프로젝트 세부 내용
 > 프로젝트 보고서 : https://www.notion.so/178ba76e84b0801c8ed9ebcffc3a8f8b?pvs=4
+
 > 개발 과정 : https://github.com/Moomin03/Development_of_an_Anomaly_Detection-System/blob/master/main/Development%20of%20an%20Anomaly%20Detection%20System%20for%20Unusual%20Access%20Using%20Web%20Log%20Data.ipynb
+
 > 모델 배포 : https://github.com/Moomin03/Development_of_an_Anomaly_Detection-System/blob/master/LOG_CLASSIFIER.pkl
 
 ### 프로젝트 소개
