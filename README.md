@@ -33,7 +33,6 @@ This project has the potential to be expanded into a real-time anomaly detection
 
 
 # 시작 가이드
-
 ## Requirements
 For building and running the application you need:
 - Python 3.13.0
