@@ -17,6 +17,7 @@
 
 > 모델 배포 : https://github.com/Moomin03/Development_of_an_Anomaly_Detection-System/blob/master/LOG_CLASSIFIER.pkl
 
+
 ### 프로젝트 소개
 **ThreatLens - Cybersecurity Anomaly Detection Using Web Log Analysis**
 
@@ -29,3 +30,21 @@ ThreatLens is a cutting-edge project that combines data analysis and cybersecuri
 3. To enhance cybersecurity strategies by identifying and mitigating potential vulnerabilities in real-time.
 
 This project has the potential to be expanded into a real-time anomaly detection system using live log data. Future plans include integrating with security monitoring systems to automate threat identification and response.
+
+
+# 시작 가이드
+
+## Requirements
+For building and running the application you need:
+- Python 3.13.0
+- scikit-learn : 1.5.2
+- xgboot : 2.1.3
+- imballenced-learn : 0.12.4
+- other : ./requirements.txt
+
+
+## Installation
+```
+git clone https://github.com/Moomin03/Development_of_an_Anomaly_Detection-System/tree/master
+```
+
