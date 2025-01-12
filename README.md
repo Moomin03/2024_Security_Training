@@ -40,10 +40,10 @@ ThreatLens is a cutting-edge project that combines data analysis and cybersecuri
 This project has the potential to be expanded into a real-time anomaly detection system using live log data. Future plans include integrating with security monitoring systems to automate threat identification and response.
 
 ## 💻 Development Environment
+- PC : LG Gram Pro 40.6 (16Z90SP-ED7HK)
 - OS : Kali Linux (2024.4 Release)
 - Python 3.12.0
 - Tools : Jupyter Notebook
-- PC : LG Gram Pro 40.6 (16Z90SP-ED7HK)
 
 
 ## ⚒️ Main Library
