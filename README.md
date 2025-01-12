@@ -49,7 +49,7 @@ This project has the potential to be expanded into a real-time anomaly detection
 ## ⚒️ Main Library
 For building and running the application you need:
 - scikit-learn : 1.5.2
-- xgboot : 2.1.3
+- xgboost : 2.1.3
 - imballenced-learn : 0.12.4
 - other : ./requirements.txt
 
