@@ -60,3 +60,8 @@ root@kali: git clone https://github.com/Moomin03/Development_of_an_Anomaly_Detec
 root@kali: cd Development_of_an_Anomaly_Detection-System/
 ```
 
+## 😎 Presentation
+
+[프레젠테이션 보기](https://docs.github.com/viewer/pdf?url=https://github.com/Moomin03/Development_of_an_Anomaly_Detection-System/blob/master/presentation.pdf)
+
+
