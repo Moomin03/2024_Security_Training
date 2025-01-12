@@ -1,6 +1,6 @@
 ## ThreatLens
 
-![로고](가운데 정렬)
+![이미지 설명](이미지_경로.png#center)
 
 
 ## ThreatLens Web Page v1.0
