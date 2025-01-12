@@ -40,7 +40,6 @@ ThreatLens is a cutting-edge project that combines data analysis and cybersecuri
 This project has the potential to be expanded into a real-time anomaly detection system using live log data. Future plans include integrating with security monitoring systems to automate threat identification and response.
 
 
-# 시작 가이드
 ## Requirements
 For building and running the application you need:
 - Python 3.13.0
