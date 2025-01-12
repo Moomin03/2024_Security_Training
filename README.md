@@ -62,6 +62,6 @@ root@kali: cd Development_of_an_Anomaly_Detection-System/
 
 ## 😎 Presentation
 
-[Go to Presentation!](https://docs.github.com/viewer/pdf?url=https://github.com/Moomin03/Development_of_an_Anomaly_Detection-System.git)
+[Go to Presentation!](https://github.com/Moomin03/Development_of_an_Anomaly_Detection-System/blob/master/presentation.pdf)
 
 
