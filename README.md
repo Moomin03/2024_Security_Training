@@ -51,6 +51,7 @@ For building and running the application you need:
 
 ## ⚒️ Installation
 ```
-git clone https://github.com/Moomin03/Development_of_an_Anomaly_Detection-System.git
+root@kali: git clone https://github.com/Moomin03/Development_of_an_Anomaly_Detection-System.git
+root@kali: cd Development_of_an_Anomaly_Detection-System/
 ```
 
