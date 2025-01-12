@@ -45,6 +45,6 @@ For building and running the application you need:
 
 ## Installation
 ```
-git clone https://github.com/Moomin03/Development_of_an_Anomaly_Detection-System/tree/master
+git clone https://github.com/Moomin03/Development_of_an_Anomaly_Detection-System.git
 ```
 
