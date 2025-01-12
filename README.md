@@ -18,7 +18,7 @@
 > Development Period : 2024.12 ~ 2025.01
 
 
-### Project Life Cycle
+### ⚒️ Project Life Cycle
 > Project Report : https://www.notion.so/178ba76e84b0801c8ed9ebcffc3a8f8b?pvs=4
 >
 > Development Process : https://github.com/Moomin03/Development_of_an_Anomaly_Detection-System/blob/master/main/Development%20of%20an%20Anomaly%20Detection%20System%20for%20Unusual%20Access%20Using%20Web%20Log%20Data.ipynb
@@ -26,7 +26,7 @@
 > Model Deployment : https://github.com/Moomin03/Development_of_an_Anomaly_Detection-System/blob/master/LOG_CLASSIFIER.pkl
 
 
-### Project Introduction
+### ⚒️ Project Introduction
 **ThreatLens - Cybersecurity Anomaly Detection Using Web Log Analysis**
 
 ThreatLens is a cutting-edge project that combines data analysis and cybersecurity to detect and analyze abnormal access patterns in web logs. By utilizing real-world web log datasets from Kaggle, this project aims to identify anomalies such as unauthorized access attempts, abnormal traffic patterns, and potential threats based on IP addresses, user activity, and geolocation data.
@@ -40,7 +40,7 @@ ThreatLens is a cutting-edge project that combines data analysis and cybersecuri
 This project has the potential to be expanded into a real-time anomaly detection system using live log data. Future plans include integrating with security monitoring systems to automate threat identification and response.
 
 
-## Requirements
+## ⚒️ Requirements
 For building and running the application you need:
 - Python 3.13.0
 - scikit-learn : 1.5.2
@@ -49,7 +49,7 @@ For building and running the application you need:
 - other : ./requirements.txt
 
 
-## Installation
+## ⚒️ Installation
 ```
 git clone https://github.com/Moomin03/Development_of_an_Anomaly_Detection-System.git
 ```
